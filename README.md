@@ -1,1 +1,1 @@
-# Virtual_trio_Health_Work_Life
+# Bridging the Virtual Trio: Health, Work, and Life

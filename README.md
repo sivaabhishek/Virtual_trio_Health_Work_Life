@@ -1,1 +1,3 @@
 # Bridging the Virtual Trio: Health, Work, and Life
+
+In this project I have created a protoype which helps the user to take breaks in between continuous work for every half an hour. Since we are using the Agile methos of working now-a-days, even meetings can be done in this half an hour and seems best if we take break for 5 minutes. So, I have created the prototype which will start its execution at morning 9 AM and then for every half an hour it will mandatorily make the user to take break by showing a screen and making the keyboard and mouse non- responsive for that period of time and then after the break all the controls comes back and user can again start the work he is doing. In this way, the work which is unsaved will also dont get disturbed. 
